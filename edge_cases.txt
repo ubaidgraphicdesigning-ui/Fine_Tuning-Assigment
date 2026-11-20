@@ -1,0 +1,74 @@
+18 EDGE CASES (12% OF THE DATASET)
+These are all included in examples.csv and in the train/val/test split.
+
+1. INPUT: Hmm, theek hai.
+   LABEL: neutral
+   WHY EDGE CASE: Very short reply; no clear emotion
+
+2. INPUT: Ok.
+   LABEL: neutral
+   WHY EDGE CASE: Single-word reply; no clear emotion
+
+3. INPUT: Is waqt mere paas mazeed details nahi hain.
+   LABEL: neutral
+   WHY EDGE CASE: Missing information / limited context
+
+4. INPUT: Kal wali baat ka context mere paas nahi hai.
+   LABEL: neutral
+   WHY EDGE CASE: Explicitly missing context
+
+5. INPUT: Mujhe samajh nahi aya ke aap kis cheez ka zikr kar rahe hain.
+   LABEL: neutral
+   WHY EDGE CASE: Unclear reference; no expressed sentiment
+
+6. INPUT: Yeh message sirf information ke liye hai.
+   LABEL: neutral
+   WHY EDGE CASE: Meta-information rather than opinion
+
+7. INPUT: Aap ne report email kar di hai?
+   LABEL: neutral
+   WHY EDGE CASE: Question without emotional language
+
+8. INPUT: Aaj Karachi mein halki barish hui.
+   LABEL: neutral
+   WHY EDGE CASE: Off-topic factual statement
+
+9. INPUT: Aaj temperature 28 degree hai.
+   LABEL: neutral
+   WHY EDGE CASE: Off-topic factual statement
+
+10. INPUT: Mera naam Ali hai.
+    LABEL: neutral
+    WHY EDGE CASE: Short factual statement
+
+11. INPUT: App smoothly chal rahi hai, koi issue nahi aya.
+    LABEL: positive
+    WHY EDGE CASE: Positive evaluation with a negative word used in a negated phrase
+
+12. INPUT: Aap ne meri baat tawajjo se suni, thank you.
+    LABEL: positive
+    WHY EDGE CASE: Polite gratitude rather than an explicit praise word
+
+13. INPUT: Meri choti si suggestion bhi aap ne include kar li, shukriya.
+    LABEL: positive
+    WHY EDGE CASE: Subtle appreciation
+
+14. INPUT: Yeh kaam jaldi mein aur bina check kiye kiya gaya lagta hai.
+    LABEL: negative
+    WHY EDGE CASE: Indirect criticism / implied dissatisfaction
+
+15. INPUT: Aap ne jo design bheja hai woh meri instructions ke mutabiq nahi.
+    LABEL: negative
+    WHY EDGE CASE: Complaint stated indirectly
+
+16. INPUT: Teacher ne topic theek se explain nahi kiya.
+    LABEL: negative
+    WHY EDGE CASE: Negative evaluation without strong emotion words
+
+17. INPUT: Aap ne ghalat information di jis se mera nuksan hua.
+    LABEL: negative
+    WHY EDGE CASE: Complaint with a stated consequence
+
+18. INPUT: Mujhe jo information chahiye thi woh aap ne di hi nahi.
+    LABEL: negative
+    WHY EDGE CASE: Negative intent expressed as a factual complaint
