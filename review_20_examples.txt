@@ -1,0 +1,82 @@
+20-example personal review checklist
+Read each example and confirm that its sentiment label is correct before class.
+
+1. INPUT: Aap ka attitude bilkul professional nahi tha.
+   EXPECTED LABEL: negative
+   Your review: [ ] Correct  [ ] Fix
+
+2. INPUT: Yeh experience bilkul bekar tha, paisay waste ho gaye.
+   EXPECTED LABEL: negative
+   Your review: [ ] Correct  [ ] Fix
+
+3. INPUT: Payment bank transfer ke zariye ki gayi thi.
+   EXPECTED LABEL: neutral
+   Your review: [ ] Correct  [ ] Fix
+
+4. INPUT: Computer lab ground floor par hai.
+   EXPECTED LABEL: neutral
+   Your review: [ ] Correct  [ ] Fix
+
+5. INPUT: I am really unhappy with this service.
+   EXPECTED LABEL: negative
+   Your review: [ ] Correct  [ ] Fix
+
+6. INPUT: Is update ke baad system aur zyada slow ho gaya.
+   EXPECTED LABEL: negative
+   Your review: [ ] Correct  [ ] Fix
+
+7. INPUT: Fee jama karwane ki aakhri tareekh 15 December hai.
+   EXPECTED LABEL: neutral
+   Your review: [ ] Correct  [ ] Fix
+
+8. INPUT: Aaj ka lecture boring tha aur samajh bhi nahi aya.
+   EXPECTED LABEL: negative
+   Your review: [ ] Correct  [ ] Fix
+
+9. INPUT: Aap ne jo design bheja hai woh meri instructions ke mutabiq nahi.
+   EXPECTED LABEL: negative
+   Your review: [ ] Correct  [ ] Fix
+
+10. INPUT: Bohat mushkil se kaam hota hai, system reliable nahi hai.
+    EXPECTED LABEL: negative
+    Your review: [ ] Correct  [ ] Fix
+
+11. INPUT: Aaj ka experience bohat disappointing raha.
+    EXPECTED LABEL: negative
+    Your review: [ ] Correct  [ ] Fix
+
+12. INPUT: Result dekh kar dil toot gaya, performance bohat buri hai.
+    EXPECTED LABEL: negative
+    Your review: [ ] Correct  [ ] Fix
+
+13. INPUT: Main aap ki mehnat ki dil se tareef karta hoon.
+    EXPECTED LABEL: positive
+    Your review: [ ] Correct  [ ] Fix
+
+14. INPUT: Mujhe is course se koi faida nahi hua.
+    EXPECTED LABEL: negative
+    Your review: [ ] Correct  [ ] Fix
+
+15. INPUT: Mujhe yeh feature bilkul useless laga.
+    EXPECTED LABEL: negative
+    Your review: [ ] Correct  [ ] Fix
+
+16. INPUT: Wah! Kya zabardast idea hai.
+    EXPECTED LABEL: positive
+    Your review: [ ] Correct  [ ] Fix
+
+17. INPUT: Bohat acha! Is se kaam pehle se asan ho gaya.
+    EXPECTED LABEL: positive
+    Your review: [ ] Correct  [ ] Fix
+
+18. INPUT: Please mujhe office ka address bhej dein.
+    EXPECTED LABEL: neutral
+    Your review: [ ] Correct  [ ] Fix
+
+19. INPUT: Yeh app use karna mushkil aur frustrating hai.
+    EXPECTED LABEL: negative
+    Your review: [ ] Correct  [ ] Fix
+
+20. INPUT: Team ne deadline miss kar di aur pehle inform bhi nahi kiya.
+    EXPECTED LABEL: negative
+    Your review: [ ] Correct  [ ] Fix
