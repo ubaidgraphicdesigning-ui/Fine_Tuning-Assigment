@@ -1,0 +1,151 @@
+input,output
+"Aap ne bohat acha kaam kiya, dil khush ho gaya.",positive
+Mujhe aap ki service bohat pasand aayi.,positive
+Wah! Kya zabardast idea hai.,positive
+Teacher ne aaj bohat asani se samjha diya.,positive
+School ka naya system waqai bohat behtareen hai.,positive
+"Mera result expected se bhi acha aya, main bohat khush hoon.",positive
+Aap ka jawab bilkul clear aur helpful tha.,positive
+"Bohat shukriya, aap ne meri problem solve kar di.",positive
+Yeh product quality ke hisaab se lajawab hai.,positive
+Mujhe is course se kaafi faida hua hai.,positive
+"Team ne deadline se pehle kaam complete kar diya, excellent!",positive
+Aap ka rawayya bohat polite aur respectful hai.,positive
+"Great work, isi tarah mehnat jari rakho.",positive
+Bachon ne activity bohat enjoy ki.,positive
+Naya design pehle se zyada khoobsurat lag raha hai.,positive
+"Meri request foran accept kar li gayi, bohat acha experience tha.",positive
+Main aap ki mehnat ki dil se tareef karta hoon.,positive
+Yeh explanation simple aur samajhne mein asan thi.,positive
+Aaj class mein sab kuch achi tarah samajh aa gaya.,positive
+"Mashallah, aap ne bohat umda presentation di.",positive
+Mujhe result dekh kar bohat khushi hui.,positive
+"App smoothly chal rahi hai, koi issue nahi aya.",positive
+Aap ki guidance se mera confidence barh gaya.,positive
+"Bohat hi umda service, main zaroor dobara use karunga.",positive
+Is baar delivery time par aur safe pohanch gayi.,positive
+"Aap ne meri baat tawajjo se suni, thank you.",positive
+Yeh lesson interesting tha aur mujhe bohat pasand aya.,positive
+"Staff bohat cooperative hai, har cheez mein help ki.",positive
+Aap ka solution simple bhi hai aur effective bhi.,positive
+Mujhe apni progress dekh kar motivation mil rahi hai.,positive
+Excellent! Aap ne sari details bohat achi tarah arrange ki hain.,positive
+Mera experience overall bohat positive raha.,positive
+Aaj bachon ki performance dekh kar dil khush ho gaya.,positive
+"Aap ka design clean, professional aur attractive hai.",positive
+"Bohat khoob, har point detail se explain kiya gaya hai.",positive
+Mujhe yeh feature bohat useful laga.,positive
+"Thank you, ab mujhe tamam steps samajh aa gaye hain.",positive
+Aap ki wajah se kaam waqt par mukammal ho gaya.,positive
+"Yeh kitab waqai dilchasp hai, parhne ka maza aa raha hai.",positive
+Customer support ne bohat achi tarah guide kiya.,positive
+"Aap ka behaviour bohat acha hai, keep it up.",positive
+"Meri choti si suggestion bhi aap ne include kar li, shukriya.",positive
+Aaj ka event bohat kamyab raha.,positive
+Bohat acha! Is se kaam pehle se asan ho gaya.,positive
+Mujhe aap ki honesty aur effort dono pasand aye.,positive
+"Yeh update perfect hai, ab sab sahi kaam kar raha hai.",positive
+Aap ne mushkil topic ko bhi asan bana diya.,positive
+Main is result se puri tarah satisfied hoon.,positive
+"SubhanAllah, bachon ne bohat achi progress ki hai.",positive
+Aap ki madad mere liye bohat valuable thi.,positive
+"Aap ki service bohat kharab thi, main bilkul satisfied nahi hoon.",negative
+Mujhe yeh product bilkul pasand nahi aya.,negative
+Itni dair ke baad bhi mera kaam complete nahi hua.,negative
+Yeh jawab ghalat hai aur meri problem solve nahi hui.,negative
+Aaj ka experience bohat disappointing raha.,negative
+"Staff ka rawayya rude tha, dobara nahi aaunga.",negative
+"App baar baar crash ho rahi hai, bohat tang aa gaya hoon.",negative
+"Mera order abhi tak deliver nahi hua, bohat buri service hai.",negative
+Yeh design bilkul acha nahi lag raha.,negative
+Teacher ne topic theek se explain nahi kiya.,negative
+Mujhe is course se koi faida nahi hua.,negative
+"Aap ne meri request ignore kar di, yeh theek nahi.",negative
+Quality bohat low hai aur price bhi zyada hai.,negative
+Main is result se bohat mayoos hoon.,negative
+"Har dafa naya error aa jata hai, kuch bhi sahi nahi chalta.",negative
+"Yeh explanation confusing thi, mujhe kuch samajh nahi aya.",negative
+Bohat afsos hua ke aap ne waqt par jawab nahi diya.,negative
+Team ne deadline miss kar di aur pehle inform bhi nahi kiya.,negative
+Mera paisa aur waqt dono zaya ho gaye.,negative
+Aap ka attitude bilkul professional nahi tha.,negative
+Is update ke baad system aur zyada slow ho gaya.,negative
+Mujhe yeh feature bilkul useless laga.,negative
+"Class mein bohat shor tha, parhai nahi ho saki.",negative
+"Aap ka promise poora nahi hua, main naraz hoon.",negative
+"Delivery mein item toot gaya tha, bohat buri packing thi.",negative
+"Yeh file open hi nahi ho rahi, bohat pareshani hai.",negative
+Aap ne ghalat information di jis se mera nuksan hua.,negative
+Mujhe customer support se koi proper help nahi mili.,negative
+Itni simple cheez bhi sahi nahi bana sake.,negative
+Main is service ko kisi ko recommend nahi karunga.,negative
+"Result dekh kar dil toot gaya, performance bohat buri hai.",negative
+Yeh app use karna mushkil aur frustrating hai.,negative
+Aap log har baar naya bahana bana dete hain.,negative
+Meri complaint ka ab tak koi hal nahi nikla.,negative
+"Bohat ghatiya quality hai, dobara order nahi karunga.",negative
+Aaj ka lecture boring tha aur samajh bhi nahi aya.,negative
+Aap ne jo design bheja hai woh meri instructions ke mutabiq nahi.,negative
+Mujhe is tareeqe se baat karna bilkul acha nahi laga.,negative
+"System mein mera data save nahi hua, sab mehnat zaya ho gayi.",negative
+Yeh kaam jaldi mein aur bina check kiye kiya gaya lagta hai.,negative
+I am really unhappy with this service.,negative
+Mujhe baar baar same issue face karna par raha hai.,negative
+Aap ki wajah se mera important kaam ruk gaya.,negative
+Is product ki battery bohat jaldi khatam ho jati hai.,negative
+Mujhe jo information chahiye thi woh aap ne di hi nahi.,negative
+"Yeh experience bilkul bekar tha, paisay waste ho gaye.",negative
+Aap ka jawab bohat careless aur incomplete tha.,negative
+"Main naraz hoon, meri baat ko serious nahi liya gaya.",negative
+The quality is poor and I would not buy it again.,negative
+"Bohat mushkil se kaam hota hai, system reliable nahi hai.",negative
+Kal class subah aath baje shuru hogi.,neutral
+Mera naam Ali hai.,neutral
+Meeting Monday ko das baje rakhi gayi hai.,neutral
+Is file mein teen worksheets hain.,neutral
+Aaj Karachi mein halki barish hui.,neutral
+Please mujhe office ka address bhej dein.,neutral
+Fee jama karwane ki aakhri tareekh 15 December hai.,neutral
+Student ka roll number 24 hai.,neutral
+Aap ne report email kar di hai?,neutral
+Main kal do baje available hoon.,neutral
+Class ka time table notice board par laga hua hai.,neutral
+Is form mein father name ka column bhi hai.,neutral
+Computer lab ground floor par hai.,neutral
+Mujhe chapter number five ki PDF chahiye.,neutral
+Aaj school mein chhutti nahi hai.,neutral
+The package contains a charger and a cable.,neutral
+Kal ka test English grammar ka hai.,neutral
+Aap kis waqt ghar pohanchain ge?,neutral
+Meri bus route number seven par chalti hai.,neutral
+Is message ke sath document attach hai.,neutral
+Office Friday ko band rehta hai.,neutral
+Student ne assignment kal submit ki thi.,neutral
+Aaj temperature 28 degree hai.,neutral
+Account ka username admin hai.,neutral
+Library mein nayi books receive hui hain.,neutral
+Mujhe sirf timing confirm karni hai.,neutral
+The meeting has been moved to 3 PM.,neutral
+Aap ne total kitni copies print karwai hain?,neutral
+Yeh paragraph Roman Urdu mein likha gaya hai.,neutral
+Payment bank transfer ke zariye ki gayi thi.,neutral
+Room number 12 mein class hogi.,neutral
+Mujhe Monday aur Tuesday ka schedule bhej dein.,neutral
+Abhi tak koi final decision nahi hua.,neutral
+File ka size 2 MB hai.,neutral
+Is list mein 30 students ke naam hain.,neutral
+Aaj main ghar par hoon.,neutral
+Please confirm karein ke class online hai ya onsite.,neutral
+Aap ka parcel reception par rakha hai.,neutral
+Yeh message sirf information ke liye hai.,neutral
+Kal subah 9:30 par test start hoga.,neutral
+Mujhe samajh nahi aya ke aap kis cheez ka zikr kar rahe hain.,neutral
+"Hmm, theek hai.",neutral
+Ok.,neutral
+Is waqt mere paas mazeed details nahi hain.,neutral
+Aap ne jo number bheja hai woh kitne digits ka hai?,neutral
+Main abhi meeting mein hoon.,neutral
+The report includes attendance for October.,neutral
+Aaj ka homework page 18 par diya gaya hai.,neutral
+Kal wali baat ka context mere paas nahi hai.,neutral
+Blue folder table ke upar rakha hai.,neutral
